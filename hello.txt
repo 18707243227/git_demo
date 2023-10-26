@@ -5,5 +5,10 @@ hello world 11!
 hello world 1!
 hello world 1!
 hello world 1!
+<<<<<<< HEAD
 hello world 1!	master test
 hello world 1!
+=======
+hello world 1! master test
+hello world 1! hot-fix test
+>>>>>>> hot-fix
